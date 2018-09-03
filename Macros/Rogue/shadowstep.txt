@@ -1,0 +1,1 @@
+/cast [nomod,@mouseover,exists][nomod,@target,exists][mod:shift,@arena1,exists][mod:ctrl,@arena2,exists][mod:alt,@arena3,exists][]shadowstep

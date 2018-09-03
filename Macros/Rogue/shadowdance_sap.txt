@@ -1,0 +1,3 @@
+#showtooltip sap
+/cast Shadow Dance
+/use [nomod,@mouseover,harm,exists][nomod,@arena1,exists][mod:shift,@arena2,exists][mod:ctrl,@arena3,exists][mod:shift,@focus,exists][]sap

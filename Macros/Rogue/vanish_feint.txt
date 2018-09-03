@@ -1,0 +1,2 @@
+#showtooltip 
+/use [nomod]feint;[mod]vanish

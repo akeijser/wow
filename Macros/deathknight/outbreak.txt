@@ -1,0 +1,2 @@
+#showtooltip outbreak
+/cast [@mouseover, exists, nodead]outbreak;outbreak

@@ -1,0 +1,2 @@
+#showtooltip [talent:7/2] Blade Rush; [talent:7/3] Killing spree
+/cast [talent:7/2] Blade Rush; [talent:7/3] Killing spree;

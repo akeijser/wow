@@ -1,0 +1,3 @@
+#showtooltip cheap shot
+/cast Shadow Dance
+/cast cheap shot

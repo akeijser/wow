@@ -1,0 +1,2 @@
+#showtooltip
+/use [nomod,@mouseover,harm,exists][nomod,@target,exists][mod:shift,@arena1,exists][mod:ctrl,@arena2,exists][mod:alt, exists, @arena3]blind[]blind

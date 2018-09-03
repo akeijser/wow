@@ -1,0 +1,4 @@
+#showtooltip sap
+/cast  Sap
+/cleartarget
+/targetenemyplayer

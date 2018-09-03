@@ -7,7 +7,7 @@ Gold bar
 mote of fire
 felsteel bar
 bronze bar
-adamite bar
+adamantite bar
 Fel iron bar
 primal fire
 Wool cloth
@@ -17,3 +17,15 @@ primal earth
 mithril bar
 medium leather
 gold power core
+eternium bar
+copper ore
+tin ore
+fel iron ore
+mithril ore
+copper bar
+
+primal fire
+
+
+
+
