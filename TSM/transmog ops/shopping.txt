@@ -4,3 +4,10 @@ ifeq(min(iflte(RequiredLevel, 70, 1, 0), ifgte(DBRegionSaleAvg, 0.05, 1, 0)) , 1
 
 
 
+shop for rawmats
+max(first (105% Max(Crafting, AvgBuy)/0.95, 70% first(min(DBMarket, 150% DBRegionMarketAvg), DBRegionHistorical, DBGlobalMarketAvg, DBGlobalHistorical)), 110% VendorSell/0.95)
+
+
+shop for mounts
+-- local market is fucked up. never finding any with this. no dabling in this now
+ifgt(DBRegionMarketAvg, 250000g, 0.8,ifgt(DBRegionMarketAvg, 100000g, 0.7,ifgt(DBRegionMarketAvg, 50000g, 0.6,0.05))) * DBRegionMarketAvg

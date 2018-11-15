@@ -1,0 +1,3 @@
+transmogs:
+
+ifgt(DBRegionMarketAvg, 250000g, 1, ifgt(DBRegionMarketAvg, 100000g, 0.9, ifgt(DBRegionMarketAvg, 50000g, 0.8 , ifgt(DBRegionMarketAvg, 25000g, 0.7, 0.5)))) *  DBRegionMarketAvg
